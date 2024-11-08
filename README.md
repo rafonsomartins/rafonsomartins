@@ -1,5 +1,5 @@
-### 👋 Hello, I'm Rui Afonso! (If you know me well you can call me Afonso 😉)
-# 🌱 Aspiring Software Developer | Management IT Resources Technician with a background in Economics.
+# 👋 Hello, I'm Rui Afonso! (If you know me well you can call me Afonso 😉)
+## 🌱 Aspiring Software Developer | Management IT Resources Technician with a background in Economics.
 
 ---
 
