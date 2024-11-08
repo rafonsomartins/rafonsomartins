@@ -20,8 +20,7 @@ Here are some of the projects I’ll share here:
 ### CS50 Projects
 - **CS50x**: Foundational projects from Harvard's CS50x that helped build my problem-solving and software development skills.
 
-### Some Other Projects
-*_(Probably in Python)_*
+### Some Other Projects *_(Probably in Python)_*
 - Ranging from automation scripts to problem-solving and data manipulation.
 
 ---
