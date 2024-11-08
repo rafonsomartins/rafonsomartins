@@ -12,14 +12,15 @@
 ---
 
 ## 📂 Featured Projects
-Here are some of the projects I’m most excited about:
+Here are some of the projects I’ll share here:
 ### 42 School Projects
 - **C Programming Fundamentals**: Includes core projects that cover algorithms, data structures, memory management, and system-level programming.
 - **Coming Soon**: Projects in C++ as I advance through the 42 curriculum.
 
 ### CS50 Projects
 These are foundational projects from Harvard's CS50 that helped build my skills in problem-solving and software development. Some examples:  
-And some more projects that I might publish here.
+
+### And some more projects that I might publish here.
 
 ---
 
