@@ -18,23 +18,25 @@ Here are some of the projects I’ll share here:
 - **Coming Soon**: Projects in C++ as I advance through the 42 curriculum.
 
 ### CS50 Projects
-Some foundational projects from Harvard's CS50x that helped build my skills in problem-solving and software development.
+- **CS50x**: Foundational projects from Harvard's CS50x that helped build my problem-solving and software development skills.
+
+### Some Other Projects ####(Probably on Python)
+- Ranging from automation scripts to problem-solving and data manipulation.
 
 ---
 
 ## 📊 Skills & Tools
 - **Languages**: C, Python, SQL, (C++ coming soon)
 - **Web**: Flask, HTML, CSS
-- **Data**: SQL, Excel, Power BI, and some experience with Microsoft data tools
+- **Data**: SQL, Excel, Power BI, Microsoft data tools
 - **Automation & Systems**: PLC programming (Structured Text and Ladder), DroneKit, Git
 
 ---
 
-## 🛠️ Current Role
-In my current role as a **Management IT Resources Technician**:  
-- I work on **data warehousing** and **Microsoft integration**.  
-- Occasionally programming **PLCs** and working with **data-driven solutions**.  
-But my passion and long-term goal lie in **software development**, where I can apply my technical background to build impactful, scalable applications.
+## 🛠️ Current Role  
+- Work on **data warehousing** and **Microsoft integration**.  
+- Occasionally programming **PLCs** and developing **data-driven solutions**.  
+- Passion about transitioning to **software development** to build impactful, scalable applications.
 
 ---
 
