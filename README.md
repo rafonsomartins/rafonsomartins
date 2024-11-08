@@ -18,9 +18,7 @@ Here are some of the projects I’ll share here:
 - **Coming Soon**: Projects in C++ as I advance through the 42 curriculum.
 
 ### CS50 Projects
-These are foundational projects from Harvard's CS50 that helped build my skills in problem-solving and software development. Some examples:  
-
-### And some more projects that I might publish here.
+These are foundational projects from Harvard's CS50 that helped build my skills in problem-solving and software development.
 
 ---
 
