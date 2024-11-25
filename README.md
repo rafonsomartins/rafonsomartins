@@ -19,14 +19,15 @@ Here are some of the projects I’ll share here:
 
 ### CS50 Projects
 - **CS50x**: Foundational projects from Harvard's CS50x that helped build my problem-solving and software development skills.
+- **CS50ai**: Foundational algorithms and AI projects from Harvard's CS50ai that are helping me improving my logical thinking.
 
 ### Some Other Projects
 - Ranging from automation scripts to problem-solving and data manipulation.
 
 ---
 
-## 📊 Skills & Tools
-- **Languages**: C, Python, SQL, (C++ coming soon)
+## 📊 Skills & Tools I know and use
+- **Languages**: C, Python, SQL
 - **Web**: Flask, HTML, CSS
 - **Data**: SQL, Excel, Power BI, Microsoft data tools
 - **Automation & Systems**: PLC programming (Structured Text and Ladder), DroneKit, Git
@@ -44,4 +45,4 @@ Here are some of the projects I’ll share here:
 - 🎓 **Bachelor’s in Economics** with a passion for how tech intersects with data and business.
 - ✨ When I'm not coding, I enjoy reading about **physics** and **math**.
 - ♟️ I played four official matches of **chess** for **Académica de Coimbra**.
-- 💪 As you can see, I am always looking for a **good challenge**.
+- 💪 As you can see, I am always looking for a **good challenge** that helps me learn about new fields.
