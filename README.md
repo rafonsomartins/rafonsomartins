@@ -35,12 +35,12 @@ Here are some of the projects I’ll share here:
 ---
 
 ## 🛠️ Current Role  
-- **Developing software solutions** while monitoring the entire **data lifecycle**, from **acquisition to automation**.
+- **Developing software solutions** while monitoring the entire **data lifecycle**, from **acquisition to automation and decision-making**.
 
 ---
 
 ## 🌱 Fun Facts
-- 🎓 **Bachelor’s in Economics** - Passionate about the intersection of tech, data, and business.
+- 🎓 **Bachelor’s in Economics** - Passionate about how tech interacts with business.
 - ✨ When I'm not coding, I enjoy reading about **physics** and **math**.
 - ♟️ Former **chess player** for **Académica de Coimbra**.
 - 💪 As you can see, I am always seeking a **good challenge** to expand my knowledge into new fields.
