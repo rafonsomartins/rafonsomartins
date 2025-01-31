@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Rui Afonso! (If you know me well you can call me Afonso 😉)
-## 🌱 Aspiring Software Developer | Management IT Resources Technician with a background in Economics.
+## 🌱 Software Engineer with a background in Economics.
 
 ---
 
 ## 🔧 What I'm Currently Exploring
 
-💡 Diving into autonomous systems specifically drone flight control with DroneKit  
+💡 Diving into autonomous systems  
 🛠️ Building a foundation in C programming through projects at 42 School  
 🤖 Automating tasks and solving problems with Python scripts
 
@@ -13,16 +13,16 @@
 
 ## 📂 Featured Projects
 Here are some of the projects I’ll share here:
-### 42 School Projects
+### 🏛️ 42 School Projects
 - **C Programming Fundamentals**: Includes core projects that cover algorithms, data structures, memory management, and system-level programming.
 - **Coming Soon**: Projects in C++ as I advance through the 42 curriculum.
 
-### CS50 Projects
+### 🎓 CS50 Projects
 - **CS50x**: Foundational projects from Harvard's CS50x that helped build my problem-solving and software development skills.
-- **CS50ai**: Foundational algorithms and AI projects from Harvard's CS50ai that are helping me improving my logical thinking.
+- **CS50ai**: Foundational algorithms and AI projects from Harvard's CS50ai that are helping me improve my logical thinking.
 
-### Some Other Projects
-- Ranging from automation scripts to problem-solving and data manipulation.
+### 🚀 Some Other Projects
+- Process automation scripts, problem-solving challenges, and data manipulation tools.
 
 ---
 
@@ -35,14 +35,12 @@ Here are some of the projects I’ll share here:
 ---
 
 ## 🛠️ Current Role  
-- Work on **data warehousing** and **Microsoft integration**.  
-- Occasionally programming **PLCs** and developing **data-driven solutions**.  
-- Passion about transitioning to **software development** to build impactful, scalable applications.
+- **Developing software solutions** while monitoring the entire **data lifecycle**, from **acquisition to automation**.
 
 ---
 
 ## 🌱 Fun Facts
-- 🎓 **Bachelor’s in Economics** with a passion for how tech intersects with data and business.
+- 🎓 **Bachelor’s in Economics** - Passionate about the intersection of tech, data, and business.
 - ✨ When I'm not coding, I enjoy reading about **physics** and **math**.
-- ♟️ I played four official matches of **chess** for **Académica de Coimbra**.
-- 💪 As you can see, I am always looking for a **good challenge** that helps me learn about new fields.
+- ♟️ Former **chess player** for **Académica de Coimbra**.
+- 💪 As you can see, I am always seeking a **good challenge** to expand my knowledge into new fields.
