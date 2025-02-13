@@ -1,13 +1,13 @@
 # 👋 Hello, I'm Rui Afonso! (If you know me well you can call me Afonso 😉)
-## 🌱 Software Engineer with a background in Economics.
+## 🌱 Software Engineer with a background in Economics | Data focused
 
 ---
 
 ## 🔧 What I'm Currently Exploring
 
-💡 Diving into autonomous systems  
-🛠️ Building a foundation in C programming through projects at 42 School  
-🤖 Automating tasks and solving problems with Python scripts
+📖 Learning a foundation in C programming through projects at 42 School and AI with CS50ai
+🛠️ Building simulations and AI with Python
+💡 Diving into autonomous systems 
 
 ---
 
