@@ -35,7 +35,7 @@ Here are some of the projects I’ll share here:
 ---
 
 ## 🛠️ Current Role  
-- **Developing software solutions** while monitoring the entire **data lifecycle**, from **acquisition to automation and decision-making**.
+- **Developing software solutions** while monitoring the entire **data lifecycle**, from **acquisition to decision-making and automation**.
 
 ---
 
